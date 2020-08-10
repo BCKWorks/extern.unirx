@@ -1,5 +1,5 @@
 {
-  "name": "com.bckworks.ext.unirx",
+  "name": "com.bckworks.extern.unirx",
   "displayName": "BCKWorks External UniRx",
   "description": "Reactive Extensions for Unity",
   "version": "1.0.0",
