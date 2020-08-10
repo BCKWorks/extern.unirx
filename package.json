@@ -1,10 +1,38 @@
 {
-  "name": "com.bckworks.neuecc.unirx",
-  "version": "7.1.1",
-  "displayName": "BCKWorks UniRx",
+  "name": "com.bckworks.ext.unirx",
+  "displayName": "BCKWorks External UniRx",
   "description": "Reactive Extensions for Unity",
+  "version": "1.0.0",
   "unity": "2019.4",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/BCKWorks/UniRx#readme",
+  "bugs": {
+    "url": "https://github.com/BCKWorks/UniRx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCKWorks/unirx.git#upm"
+  },
   "license": "MIT",
-  "dependencies": {
-  }
+  "author": {
+    "name": "BCKWorks External",
+    "email": "ck@bckworks.com",
+    "url": "https://github.com/BCKWorks"
+  },
+  "files": [
+    "*.md",
+    "*.meta",
+    "*.asmdef",
+    "*.xml",
+    "Runtime",
+    "Samples~"
+  ],
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "Examples",
+      "path": "Samples~/Examples"
+    }
+  ]
 }
