@@ -4,7 +4,8 @@
 # 소개
 
 BCKWorks External Unity3D UniRx는 [유니티] 기반 소프트웨어 개발 도구(SDK)입니다.
-forked from [neuecc/UniRx]
+
+[neuecc/UniRx]로부터 퍼왔습니다.
 
 > `2019.4.x LTS` 버전에 맞춰서 제작되었습니다.
 
