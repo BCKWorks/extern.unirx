@@ -1,3 +1,5 @@
+![IMG](https://img.shields.io/badge/pkg%20name-com.bckworks.extern.unity.unirx-yellowgreen?style=for-the-badge&logo=appveyor)
+
 ![NPM](https://img.shields.io/npm/v/com.bckworks.extern.unity.unirx)
 ![NPM](https://img.shields.io/npm/l/com.bckworks.extern.unity.unirx)
 
