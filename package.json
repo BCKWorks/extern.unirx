@@ -1,22 +1,22 @@
 {
-  "name": "com.bckworks.extern.unirx",
-  "displayName": "BCKWorks External UniRx",
+  "name": "com.bckworks.extern.unity.unirx",
+  "displayName": "BCKWorks External Unit3D UniRx",
   "description": "Reactive Extensions for Unity",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "unity": "2019.4",
   "keywords": [
   ],
-  "homepage": "https://github.com/BCKWorks/extern.unirx#readme",
+  "homepage": "https://github.com/BCKWorks/extern.unity.unirx#readme",
   "bugs": {
-    "url": "https://github.com/BCKWorks/extern.unirx/issues"
+    "url": "https://github.com/BCKWorks/extern.unity.unirx/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BCKWorks/unirx.git#upm"
+    "url": "git+https://github.com/BCKWorks/extern.unity.unirx.git#upm"
   },
   "license": "MIT",
   "author": {
-    "name": "BCKWorks External",
+    "name": "BCKWorks",
     "email": "ck@bckworks.com",
     "url": "https://github.com/BCKWorks"
   },
@@ -25,6 +25,7 @@
     "*.meta",
     "*.asmdef",
     "*.xml",
+    "Editor",
     "Runtime",
     "Samples~"
   ],
