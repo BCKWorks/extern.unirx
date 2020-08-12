@@ -1,8 +1,8 @@
 {
   "name": "com.bckworks.extern.unity.unirx",
-  "displayName": "BCKWorks External Unit3D UniRx",
+  "displayName": "BCKWorks External Unity3D UniRx",
   "description": "Reactive Extensions for Unity",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "unity": "2019.4",
   "keywords": [
   ],
