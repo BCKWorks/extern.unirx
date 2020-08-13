@@ -35,10 +35,10 @@ iNTERVR Unity3D External UniRx는 [유니티] 기반 소프트웨어 개발 도�
 {
   "scopedRegistries": [
     {
-      "name": "BCKWorks",
+      "name": "iNTERVR",
       "url": "https://registry.npmjs.org/",
       "scopes": [
-        "com.bckworks"
+        "com.intervr"
       ]
     }
   ],
