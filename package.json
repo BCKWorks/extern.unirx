@@ -2,7 +2,7 @@
   "name": "com.intervr.unity.extern.unirx",
   "displayName": "UniRx of iNTERVR Unity3D External SDK",
   "description": "Reactive Extensions for Unity3D",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "unity": "2019.4",
   "keywords": [
   ],
