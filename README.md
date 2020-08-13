@@ -56,5 +56,5 @@ UniRx는 iNTERVR의 외부에서 [유니티]를 기반으로 하여 제작된 �
 
 [neuecc/UniRx]: https://github.com/neuecc/unirx
 [유니티]: https://unity3d.com/
-[최신-릴리즈(NPM)]: https://www.npmjs.com/package/com.bckworks.extern.unity.unirx
+[최신-릴리즈(NPM)]: https://www.npmjs.com/package/com.intervr.unity.extern.unirx
 [프로젝트-매니페스트]: https://docs.unity3d.com/Manual/upm-manifestPrj.html
