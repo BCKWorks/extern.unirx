@@ -5,7 +5,7 @@
 
 # 소개
 
-iNTERVR Unity3D External UniRx는 [유니티] 기반 소프트웨어 개발 도구(SDK)입니다.
+UniRx는 [유니티]를 기반으로 하여 iNTERVR의 외부에서 제작된 소프트웨어 개발 도구(SDK)입니다.
 
 [neuecc/UniRx]로부터 퍼왔습니다.
 
