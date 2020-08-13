@@ -1,24 +1,24 @@
 {
-  "name": "com.bckworks.extern.unity.unirx",
-  "displayName": "BCKWorks External Unity3D UniRx",
-  "description": "Reactive Extensions for Unity",
-  "version": "1.1.5",
+  "name": "com.intervr.unity.extern.unirx",
+  "displayName": "UniRx of iNTERVR Unity3D External SDK",
+  "description": "Reactive Extensions for Unity3D",
+  "version": "1.1.6",
   "unity": "2019.4",
   "keywords": [
   ],
-  "homepage": "https://github.com/BCKWorks/extern.unity.unirx#readme",
+  "homepage": "https://github.com/iNTERVR/unity.extern.unirx#readme",
   "bugs": {
-    "url": "https://github.com/BCKWorks/extern.unity.unirx/issues"
+    "url": "https://github.com/iNTERVR/unity.extern.unirx/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BCKWorks/extern.unity.unirx.git#upm"
+    "url": "git+https://github.com/iNTERVR/unity.extern.unirx.git#upm"
   },
   "license": "MIT",
   "author": {
-    "name": "BCKWorks",
-    "email": "ck@bckworks.com",
-    "url": "https://github.com/BCKWorks"
+    "name": "iNTERVR",
+    "email": "ckbang7@gmail.com",
+    "url": "https://github.com/iNTERVR"
   },
   "files": [
     "*.md",
