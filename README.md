@@ -30,7 +30,7 @@ iNTERVR Unity3D External UniRx는 [유니티] 기반 소프트웨어 개발 도�
     * `com.intervr`가 `scopes`에 포함되었는지 확인합니다.
   * `dependencies`에 `com.intervr.unity.extern.unirx`의 최신버전을 추가합니다.
 
- 간략한 예제는 다음과 같습니다. 여기에 표기된 `"X.Y.Z"` 버전은 [최신-릴리즈(NPM)]인 ![NPM](https://img.shields.io/npm/v/com.bckworks.extern.unity.unirx)에서 v를 제외한 나머지로 자리에 맞추어 대체 되어야 합니다.
+ 간략한 예제는 다음과 같습니다. 여기에 표기된 `"X.Y.Z"` 버전은 [최신-릴리즈(NPM)]인 ![NPM](https://img.shields.io/npm/v/com.intervr.unity.extern.unirx)에서 v를 제외한 나머지로 자리에 맞추어 대체 되어야 합니다.
 ```json
 {
   "scopedRegistries": [
