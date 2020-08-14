@@ -5,13 +5,13 @@
   "version": "1.4.0",
   "unity": "2020.1",
   "keywords": [],
-  "homepage": "https://github.com/iNTERVR/unity.extern.unirx#readme",
+  "homepage": "https://github.com/iNTERVR/TS.UniRx#readme",
   "bugs": {
-    "url": "https://github.com/iNTERVR/unity.extern.unirx/issues"
+    "url": "https://github.com/iNTERVR/TS.UniRx/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iNTERVR/unity.extern.unirx.git#upm"
+    "url": "git+https://github.com/iNTERVR/TS.UniRx.git#upm"
   },
   "license": "MIT",
   "author": {
