@@ -2,8 +2,8 @@
   "name": "com.intervr.ts.unirx",
   "displayName": "iNTERVR Tech Stack UniRx",
   "description": "Reactive Extensions for Unity3D",
-  "version": "1.4.2",
-  "unity": "2020.1",
+  "version": "1.5.0",
+  "unity": "2020.2",
   "keywords": [],
   "homepage": "https://github.com/iNTERVR/TS.UniRx#readme",
   "bugs": {

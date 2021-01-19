@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this package will be documented in this file.
 
+## [1.5.0] - 2021-01-19
+
+### Removed
+
+- AOT link.xml
+
 ## [1.4.0] - 2020-08-15
 
 ### Changed
